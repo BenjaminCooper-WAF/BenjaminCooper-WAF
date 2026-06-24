@@ -25,11 +25,11 @@ Becoming sharper, faster, more dangerous with cloud infrastructure and security.
 
 ## 🌍 A Few Things About Me 🌍 
 
-I enjoy learning skills that have real-world value
-I like systems that are clean, secure, and efficient
-I respect good documentation almost as much as working code
-I probably trust curl more than I trust people
-I know that one tiny typo can ruin an otherwise beautiful day
+* I enjoy learning skills that have real-world value
+* I like systems that are clean, secure, and efficient
+* I respect good documentation almost as much as working code
+* I probably trust curl more than I trust people
+* I know that one tiny typo can ruin an otherwise beautiful day
 
 ## 📈 Currently Growing 📈 
 
