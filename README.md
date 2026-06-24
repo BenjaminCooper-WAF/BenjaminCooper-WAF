@@ -1,8 +1,11 @@
 👋 Hey, I'm Benjamin
+
 🚀 Builder of things, breaker of things & fixer of things 🚀
+
 Welcome to my little corner of GitHub — where cloud dreams, late-night debugging sessions and ambitious ideas live under one roof.
 
 🧠 About Me 🧠
+
 I’m passionate about tech, problem-solving, and turning “why is this broken?” into “look at that, it works.”
 
 Right now, I’m focused on:
