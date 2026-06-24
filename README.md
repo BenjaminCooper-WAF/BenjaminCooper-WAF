@@ -17,7 +17,7 @@ I’m passionate about tech, problem-solving, and turning “why is this broken?
 🎯 Levelling up one project at a time
 I like practical work, real-world troubleshooting and projects that make me think.
 
-##⚡ Current Mission ⚡
+⚡ Current Mission ⚡
 
 [▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░] 50%
 
