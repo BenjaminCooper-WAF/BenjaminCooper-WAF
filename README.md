@@ -11,10 +11,15 @@ I’m passionate about tech, problem-solving, and turning “why is this broken?
 ## Right now, I’m focused on:
 
 ☁️ Cloud and infrastructure
+
 🔐 Security and resilience
+
 🛠️ Building hands-on IT projects
+
 📚 Learning by doing
+
 🎯 Levelling up one project at a time
+
 I like practical work, real-world troubleshooting and projects that make me think.
 
 ⚡ Current Mission ⚡
