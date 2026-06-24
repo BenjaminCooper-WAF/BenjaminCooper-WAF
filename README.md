@@ -9,11 +9,11 @@ Welcome to my little corner of GitHub — where cloud dreams, late-night debuggi
 I’m passionate about tech, problem-solving, and turning “why is this broken?” into “look at that, it works.”
 
 ## Right now, I’m focused on:
-☁️ Cloud and infrastructure,
-🔐 Security and resilience,
-🛠️ Building hands-on IT projects,
-📚 Learning by doing,
-🎯 Levelling up one project at a time
+1, Cloud and infrastructure
+2, Security and resilience
+3, Building hands-on IT projects,
+4, Learning by doing,
+5, Levelling up one project at a time
 
 I like practical work, real-world troubleshooting and projects that make me think.
 
