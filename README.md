@@ -1,6 +1,6 @@
 Hey, I'm Benjamin 👋
 
-🚀 Builder of things, breaker of things & fixer of things 🚀
+🚀 Builder, breaker & fixer of things 🚀
 
 Welcome to my corner of GitHub — where cloud infrastructure, late-night debugging sessions, and ambitious ideas all live under one roof.
 
