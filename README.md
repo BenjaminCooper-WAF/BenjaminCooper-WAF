@@ -21,8 +21,8 @@ Right now, I'm focused on:
 Becoming sharper, faster, and more dangerous with cloud infrastructure and security — one project at a time.
 
 🌍 A Few Things About Me
-I chase skills with real-world value, not just résumé padding
-I care more about clean, secure, efficient systems than flashy ones
-Good documentation earns as much respect from me as good code
-I trust curl more than I trust people
-I've learned the hard way that one typo can ruin an otherwise beautiful day.
+* I chase skills with real-world value, not just résumé padding
+* I care more about clean, secure, efficient systems than flashy ones
+* Good documentation earns as much respect from me as good code
+* I trust curl more than I trust people
+* I've learned the hard way that one typo can ruin an otherwise beautiful day.
