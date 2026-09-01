@@ -1,39 +1,28 @@
-## Hey, I'm Benjamin
+Hey, I'm Benjamin 👋
 
 🚀 Builder of things, breaker of things & fixer of things 🚀
 
-Welcome to my little corner of GitHub — where cloud dreams, late-night debugging sessions and ambitious ideas live under one roof.
+Welcome to my corner of GitHub — where cloud infrastructure, late-night debugging sessions, and ambitious ideas all live under one roof.
 
-## 🧠 About Me 🧠
+🧠 About Me
 
-I’m passionate about tech, problem-solving, and turning “why is this broken?” into “look at that, it works.”
+I'm an AWS Cloud Engineer who turns "why is this broken?" into "look at that, it works." I'm driven by practical problem-solving, clean systems, and hands-on learning over theory.
 
-## Right now, I’m focused on:
-* Cloud and infrastructure
-* Security and resilience
-* Building hands-on IT projects
-* Learning by doing 
-* Levelling up one project at a time
+Right now, I'm focused on:
 
-I like practical work, real-world troubleshooting and projects that make me think.
-
-⚡ Current Mission ⚡
+☁️ Cloud architecture & infrastructure automation
+🔐 Security engineering & resilience patterns
+🛠️ DevOps tooling & CI/CD pipeline deployment
+🧩 Systems thinking & architectural design
+⚡ Current Mission
 
 [▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░] 50%
 
-Becoming sharper, faster, more dangerous with cloud infrastructure and security.
+Becoming sharper, faster, and more dangerous with cloud infrastructure and security — one project at a time.
 
-## 🌍 A Few Things About Me 🌍 
-
-* I enjoy learning skills that have real-world value
-* I like systems that are clean, secure, and efficient
-* I respect good documentation almost as much as working code
-* I probably trust curl more than I trust people
-* I know that one tiny typo can ruin an otherwise beautiful day
-
-## 📈 Currently Growing 📈 
-
-- Cloud architecture & infrastructure automation
-- Security engineering & resilience patterns
-- DevOps tooling &  pipeline deployment
-- Systems thinking & architectural design
+🌍 A Few Things About Me
+I chase skills with real-world value, not just résumé padding
+I care more about clean, secure, efficient systems than flashy ones
+Good documentation earns as much respect from me as good code
+I trust curl more than I trust people
+I've learned the hard way that one typo can ruin an otherwise beautiful day
