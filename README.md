@@ -8,7 +8,7 @@ Welcome to my corner of GitHub — where cloud infrastructure, late-night debugg
 
 I'm an AWS Cloud Engineer who turns "why is this broken?" into "look at that, it works." I'm driven by practical problem-solving, clean systems, and hands-on learning over theory.
 
-Right now, I'm focused on:
+🥇Right now, I'm focused on:
 
 ☁️ Cloud architecture & infrastructure automation
 🔐 Security engineering & resilience patterns
