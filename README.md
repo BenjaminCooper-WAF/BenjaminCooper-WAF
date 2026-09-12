@@ -21,5 +21,5 @@ I'm an AWS Cloud Engineer who turns "why is this broken?" into "look at that, it
 🛠️ DevOps tooling & CI/CD pipeline deployment
 🧩 Systems thinking & architectural design
 
-
-⚡ Current Mission : Becoming sharper, faster, and more dangerous with cloud infrastructure and security — one project at a time.
+⚡ Current Mission 
+Becoming sharper, faster, and more dangerous with cloud infrastructure and security — one project at a time.
