@@ -22,4 +22,4 @@ I'm an AWS Cloud Engineer who turns "why is this broken?" into "look at that, it
 🧩 Systems thinking & architectural design
 
 ⚡ Current Mission ---->
-Becoming sharper, faster, and more dangerous with cloud infrastructure and security — one project at a time.
+Becoming sharper, faster, and more dangerous with cloud infrastructure & security — one project at a time.
